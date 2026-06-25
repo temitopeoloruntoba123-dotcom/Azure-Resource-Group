@@ -1,3 +1,16 @@
+Account Registration and Verification
+
+A Microsoft Azure Free Tier account was successfully created. During the registration process, the following verification steps were completed:
+
+Email address verification
+Phone number verification
+Identity verification as required by Microsoft Azure
+Payment method validation for Free Tier activation
+
+After successful verification, the Azure subscription was activated and access to the Azure Portal was granted.
+
+
+
 # Azure 3MTT Cloud Project
 
 ## Project Overview
